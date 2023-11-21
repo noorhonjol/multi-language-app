@@ -2,19 +2,16 @@
     {
         "type": "Berline",
         "description": "Optez pour une berline pour son abordabilité et son excellente économie de carburant.",
-        "icon": "/src/assets/icon-sedans.svg",
-        "clr": "orangeVif"
+        "icon": "/src/assets/icon-sedans.svg"
     },
     {
         "type": "VUS",
         "description": "Choisissez un VUS pour son intérieur spacieux, sa puissance et sa polyvalence.",
-        "icon": "/src/assets/icon-suvs.svg",
-        "clr": "cyanFoncé"
+        "icon": "/src/assets/icon-suvs.svg"
     },
     {
         "type": "Luxe",
         "description": "Roulez dans les meilleures marques de voitures sans les prix exorbitants.",
-        "icon": "/src/assets/icon-luxury.svg",
-        "clr": "cyanTrèsFoncé"
+        "icon": "/src/assets/icon-luxury.svg"
     }
 ]
